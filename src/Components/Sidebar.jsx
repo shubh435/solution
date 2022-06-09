@@ -13,7 +13,7 @@ import {
 import { RiArrowDownSLine, RiArrowUpSLine, RiTeamLine } from "react-icons/ri";
 
 import img from "../assets/images/images.png";
-import logo from "../assets/images/logo.png";
+import logo from "../assets/images/logo.svg";
 const Sidebar = () => {
   const data = [
     {
